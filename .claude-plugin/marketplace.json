@@ -5,13 +5,13 @@
   },
   "metadata": {
     "description": "Free, open-source Agent Skills for remote and cross-border hiring. AI drafts, humans decide.",
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   "plugins": [
     {
       "name": "remote-hiring-skills",
       "description": "Eight hiring skills: role intake, scorecards, job posts, remote interview kits, interview debriefs, candidate emails, remote onboarding plans and time-to-hire audits. They draft and structure. They never score, rank or reject people.",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": {
         "name": "Osama Bin Jannat",
         "url": "https://www.osamabinjannat.com"
