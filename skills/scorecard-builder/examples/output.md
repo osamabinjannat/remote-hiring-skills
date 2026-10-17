@@ -15,13 +15,14 @@
 ## Rating scale
 | Rating | What the evidence shows |
 |---|---|
-| 4 Clearly above the bar | Several specific examples. They already do more than the role needs on day one |
+| 5 Well above the bar | Several specific examples. They already do much more than the role needs on day one |
+| 4 Above the bar | Specific examples, some going beyond what the role needs on day one |
 | 3 Meets the bar | Specific examples that show they can do what the role needs on day one |
 | 2 Some concern | Some evidence, but it's vague, general or falls short in places |
 | 1 Clear concern | Specific examples that show they can't yet do what the role needs |
 | No evidence | Your stage didn't cover it, or time ran out. It's not a mark against them |
 
-There's no middle rating, on purpose. Pick the side the evidence points to.
+A 3 means "meets the bar", not "not sure". If you're unsure, write down what evidence is missing.
 
 ## Competencies (the skills and behaviours this job needs)
 | # | Competency | Weight | Tested in | Interviewer |
@@ -111,7 +112,7 @@ There's no middle rating, on purpose. Pick the side the evidence points to.
 3. *(Situational, remote)* "What's your plan if your power or internet goes down in the middle of a client call?"
    - Follow-up: "Has that happened to you before? What did you do, and who did you tell?"
 
-**Listen for:** A named system and real examples. The tool doesn't matter, and HubSpot can be learned. For the power or internet question, judge the plan, not the setup. Listen for a backup, such as a UPS (a backup battery), a mobile hotspot or a co-working space, and a habit of telling people early.
+**Listen for:** A named system and real examples. The tool doesn't matter, and HubSpot can be learned. For the power or internet question, check the setup against the minimum in the job post, the same way for everyone, and judge the backup plan. Listen for a backup, such as a UPS (a backup battery), a mobile hotspot or a co-working space, and a habit of telling people early.
 
 ## 5. Values alignment and culture add (15%)
 **What it means:** Values alignment is past behaviour that matches Fernhill's written values. Culture add is a new strength or perspective they'd bring to the team.
@@ -154,7 +155,7 @@ Copy this for each interviewer and each candidate. Fill in only the competencies
 
 **Candidate:** __________ **Interviewer:** __________ **Stage:** __________ **Date:** __________
 
-| Competency | Evidence (what they said or did) | Rating (1 to 4 or No evidence) |
+| Competency | Evidence (what they said or did) | Rating (1 to 5 or No evidence) |
 |---|---|---|
 | 1. Client communication (25%) | | |
 | 2. Handling difficult conversations (20%) | | |

@@ -9,7 +9,7 @@
 - Write the evidence first: what they said or did. Then pick a rating.
 - Hand this in within 24 hours of your interview, before you read anyone else's.
 
-| Competency | Evidence (what they said or did) | Rating (1 to 4 or No evidence) |
+| Competency | Evidence (what they said or did) | Rating (1 to 5 or No evidence) |
 |---|---|---|
 | 1. ( %) | | |
 | 2. ( %) | | |
@@ -18,7 +18,7 @@
 | 5. ( %) | | |
 | 6. ( %) | | |
 
-**Rating scale:** 4 Clearly above the bar · 3 Meets the bar · 2 Some concern · 1 Clear concern · No evidence (your stage didn't cover it, which is not a mark against them)
+**Rating scale:** 5 Well above the bar · 4 Above the bar · 3 Meets the bar · 2 Some concern · 1 Clear concern · No evidence (your stage didn't cover it, which is not a mark against them)
 
 **One thing I'd want to find out next:** __________
 

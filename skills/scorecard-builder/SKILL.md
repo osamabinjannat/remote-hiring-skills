@@ -1,6 +1,6 @@
 ---
 name: scorecard-builder
-description: Builds a weighted interview scorecard from a role brief, or from a job title and must-haves, with 4 to 6 competencies, weights that add up to 100, a 4-point rating scale, what strong and weak look like, behavioural and situational interview questions with follow-ups, yes or no must-have checks and a blank interviewer scoresheet. Use this whenever someone needs a scorecard, interview rubric, evaluation criteria, competencies or interview questions for a role, or says something like "what should we ask candidates for a...", even if they don't say scorecard. Built for remote and cross-border roles. Drafts only, and interviewers fill in the ratings themselves.
+description: Builds a weighted interview scorecard from a role brief, or from a job title and must-haves, with 4 to 6 competencies, weights that add up to 100, a 1 to 5 rating scale, what strong and weak look like, behavioural and situational interview questions with follow-ups, yes or no must-have checks and a blank interviewer scoresheet. Use this whenever someone needs a scorecard, interview rubric, evaluation criteria, competencies or interview questions for a role, or says something like "what should we ask candidates for a...", even if they don't say scorecard. Built for remote and cross-border roles. Drafts only, and interviewers fill in the ratings themselves.
 license: MIT
 ---
 
@@ -45,9 +45,10 @@ Use the exact format below. Follow these rules while you write:
 - **4 to 6 competencies.** A competency is a skill or behaviour the job needs. Build them from the must-haves. If the user asks for more than six, merge the ones that overlap and cut the ones that can be learned on the job. Say what you merged or cut in "Notes on this draft".
 - **Yes-or-no must-haves stay separate.** Overlap hours, location and pay go under "Must-have checks", for a person to check at the screen. They aren't weighted or rated.
 - **Weights.** Whole numbers, in multiples of 5, adding up to 100. Put the most weight on what the hiring manager says matters most. Weights guide the debrief (the meeting where the panel shares evidence). They don't produce a score. Never calculate a total for anyone.
+- **Rating scale.** Use the team's own scale if they have one. Otherwise use 1 to 5, where 3 means "meets the bar", with every number defined by the evidence.
 - **Values alignment gets about 10 to 20%.** If the user wants more, keep their weight and say in Notes that the role's skills should carry most of it, because a heavy values weight lets "people like us" back in. The hiring manager decides.
-- **Remote roles need a remote competency.** At least one of: written async communication (writing that someone in another time zone can act on later), self-management or collaboration across time zones.
-- **Values come from the company's own words.** Use the written values word for word, and add culture add (a new strength or perspective the person would bring). If you don't have the values, ask for them or write "[Value: paste your company's written value here]". Never invent values.
+- **Remote roles need remote competencies.** Include at least one, and usually two, of these five: written communication (writing that someone in another time zone can act on without a call), self-direction (knowing when to push on and when to ask), proactive transparency (raising problems early), reliability (doing what they said, when they said) and async judgment (documenting decisions and knowing when a call is actually needed).
+- **Values come from the company's own words.** Pick the two or three written values that genuinely set the team apart, use them word for word and write what each one looks like in action. Rate values answers against those written anchors, like any other competency. Add culture add (a new strength or perspective the person would bring). If you don't have the values, ask for them or write "[Value: paste your company's written value here]". Never invent values.
 - **Strong and weak are behaviour.** Write what an interviewer could see or hear, such as "puts the next step in the first line of the email". No personality labels such as "confident", "outgoing", "energetic" or "good communicator". Never accent, appearance, home, background or video quality.
 - **2 to 3 questions per competency, each with a follow-up.** Mix behavioural ("Tell me about a time...") and situational ("What would you do if..."). Use the role's real situations. Add a remote question where it fits: overlap hours, handovers, being stuck while the other time zone sleeps, power or internet cuts. Label each one behavioural, situational, role play or written task, and add "remote" or the value it tests where useful. If two people test a competency, say who asks each question. For a role play, say who plays whom.
 - **Exercises get tasks, not questions.** For a written exercise or work sample, write the tasks and build the follow-up into the task, such as the client's reply. Write "Look for" instead of "Listen for". Take-home work over 60 minutes should be paid or cut down. Say so in Notes.
@@ -73,13 +74,14 @@ Use the exact format below. Follow these rules while you write:
 ## Rating scale
 | Rating | What the evidence shows |
 |---|---|
-| 4 Clearly above the bar | Several specific examples. They already do more than the role needs on day one |
+| 5 Well above the bar | Several specific examples. They already do much more than the role needs on day one |
+| 4 Above the bar | Specific examples, some going beyond what the role needs on day one |
 | 3 Meets the bar | Specific examples that show they can do what the role needs on day one |
 | 2 Some concern | Some evidence, but it's vague, general or falls short in places |
 | 1 Clear concern | Specific examples that show they can't yet do what the role needs |
 | No evidence | Your stage didn't cover it, or time ran out. It's not a mark against them |
 
-There's no middle rating, on purpose. Pick the side the evidence points to.
+A 3 means "meets the bar", not "not sure". If you're unsure, write down what evidence is missing.
 
 ## Competencies (the skills and behaviours this job needs)
 | # | Competency | Weight | Tested in | Interviewer |
@@ -123,7 +125,7 @@ Copy this for each interviewer and each candidate. Fill in only the competencies
 
 **Candidate:** __________ **Interviewer:** __________ **Stage:** __________ **Date:** __________
 
-| Competency | Evidence (what they said or did) | Rating (1 to 4 or No evidence) |
+| Competency | Evidence (what they said or did) | Rating (1 to 5 or No evidence) |
 |---|---|---|
 | 1. [Competency] ([weight]%) | | |
 

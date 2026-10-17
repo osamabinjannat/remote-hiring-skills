@@ -13,13 +13,14 @@
 ## Rating scale
 | Rating | What the evidence shows |
 |---|---|
-| 4 Clearly above the bar | Several specific examples. They already do more than the role needs on day one |
+| 5 Well above the bar | Several specific examples. They already do much more than the role needs on day one |
+| 4 Above the bar | Specific examples, some going beyond what the role needs on day one |
 | 3 Meets the bar | Specific examples that show they can do what the role needs on day one |
 | 2 Some concern | Some evidence, but it's vague, general or falls short in places |
 | 1 Clear concern | Specific examples that show they can't yet do what the role needs |
 | No evidence | Your stage didn't cover it, or time ran out. It's not a mark against them |
 
-There's no middle rating, on purpose. Pick the side the evidence points to.
+A 3 means "meets the bar", not "not sure". If you're unsure, write down what evidence is missing.
 
 ## Competencies (the skills and behaviours this job needs)
 <!-- 4 to 6 competencies. Weights are whole numbers in multiples of 5 and add up to 100. Remote role? Include at least one of: written async communication, self-management or collaboration across time zones. -->
