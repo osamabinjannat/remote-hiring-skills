@@ -26,9 +26,9 @@
 | Welcome email: start time in both zones, the day one plan, who Usman is and an invitation to tell Rachel about any days or times Sana needs | Rachel | Tuesday 10 November |
 | Buddy introduced by email. Agree Usman's time: 15 minutes a day in week one, then twice a week | Rachel | Tuesday 10 November |
 | Decide whether to ship the laptop from Austin or buy it in Lahore (see notes) | Rachel | Tuesday 10 November |
-| Contract signed and checked for both countries (see Legal check) | Hamza | Friday 13 November |
+| Offer letter and contract signed, and checked for both countries (see Legal check) | Hamza | Friday 13 November |
 | Laptop shipped from Austin with the tracking number sent to Sana, or bought in Lahore. Arrives by Wednesday 25 November | [Ops owner, to be named] | Friday 13 November |
-| Backup power and internet: ask what Sana has now, such as a UPS (a battery that keeps power on during a cut) or a mobile hotspot. Confirm how the USD 40 a month allowance is paid | Rachel | Friday 20 November |
+| Setup proof, the same as every new hire: Sana shares her internet speed test and backup power details, such as a UPS (a battery that keeps power on during a cut) or a mobile hotspot. Confirm how the USD 40 a month allowance is paid | Rachel | Friday 20 November |
 | Accounts created: Google Workspace email, Slack, Zoom, HubSpot and Zendesk | [Ops owner, to be named] | Friday 20 November |
 | Agree what client data Sana can see in HubSpot and Zendesk, and set access to match (see Legal check) | Rachel | Friday 20 November |
 | Payment details collected through [secure payment channel]. Never over Slack, chat apps or email | Hamza | Friday 20 November |

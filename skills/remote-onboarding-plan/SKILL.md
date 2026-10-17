@@ -39,7 +39,7 @@ Ask all your questions in one message, numbered and grouped. Never one at a time
 4. Which public holidays fall in the first 30 days, in both countries? Is anyone on the team on leave?
 
 **People**
-5. Who's the manager? Who's the buddy (a peer who helps the new hire settle in, not the manager)?
+5. Who's the manager? Who's the buddy (a peer from the same team who helps the new hire settle in, not the manager)?
 6. Who else will they work with closely? Who handles the contract, the equipment and the accounts?
 
 **Setup**
@@ -70,7 +70,7 @@ Follow these rules while you write:
 - **Support, never judgement.** Every check-in asks the same three questions: What's going well? What's confusing? What do you need from me? No ratings, scores or probation decisions anywhere in the plan.
 - **Day one has four parts:** a welcome call with the manager, meeting the buddy, the setup checklist and meeting the team in an overlap-hours call.
 - **A light first week.** Read the key docs, shadow (sit in on) real work and ship one small thing. Leave room to settle in.
-- **A real buddy.** A peer, not the manager, ideally with hours that overlap the new hire's. They answer the "silly" questions. 15 minutes every day in week one, then twice a week until day 30. If no buddy is named, write "[Buddy, to be named]" and say what to look for.
+- **A real buddy from the same team.** A peer who does similar work, not the manager and not someone from another department, ideally with hours that overlap the new hire's. They answer the "silly" questions. 15 minutes every day in week one, then twice a week until day 30. If no buddy is named, write "[Buddy, to be named]" and say what to look for.
 - **One real first deliverable.** Small, useful and visible, due by day 30 and linked to the role's day 30 outcomes. "Finish onboarding" isn't a deliverable. "Run your first client check-in calls and write up the three biggest issues" is.
 - **Paperwork before day one.** The contract is signed before the start date. Payment details go through a secure channel, never over chat or email.
 - **Help with power and internet.** Ask what backup the new hire has, such as a UPS (a battery that keeps power on during a cut) or a mobile hotspot. Say what the company pays for. An outage is never a mark against anyone.
@@ -103,9 +103,9 @@ Follow these rules while you write:
 ## Before day one
 | Task | Owner | Due |
 |---|---|---|
-| Contract signed and checked for both countries (see Legal check) | | |
+| Offer letter and contract signed, and checked for both countries (see Legal check) | | |
 | Laptop shipped, bought locally or allowance paid. Arrives by [date] | | |
-| Backup power and internet: ask what [Name] has and agree what the company pays | | |
+| Setup proof shared, the same as every new hire: device specs, an internet speed test and backup power details. Agree what the company pays for | | |
 | Accounts created: [each tool] | | |
 | [Name] signs in to every account and confirms each one works | | |
 | Agree what client data [Name] can see, and set access to match | | |
@@ -205,7 +205,7 @@ After the plan, add a short section called **Notes on this draft**. It's for the
 - [ ] Every date has the right weekday. Nothing lands on a weekend or on a holiday given for either country.
 - [ ] Every time appears in both time zones, and the header says whether the clocks change.
 - [ ] Regular meetings sit inside overlap hours. Learning sits in the new hire's own hours, and buddy time is when both of them are working.
-- [ ] "Before day one" covers the contract, equipment, backup power or internet, accounts, secure payment details, the welcome email, the buddy introduction, the first-week calendar and a reading list.
+- [ ] "Before day one" covers the offer letter and contract, the setup proof, equipment, accounts, secure payment details, the welcome email, the buddy introduction, the first-week calendar and a reading list.
 - [ ] Day one has the welcome call, the buddy, the setup checklist and a team call.
 - [ ] Check-ins fall on day 1, 3, 7, 14 and 30 (or moved to a working day, as in Step 3) with the same three questions, plus a weekly 1:1.
 - [ ] The first deliverable is small, real and due by day 30. It says what done looks like.

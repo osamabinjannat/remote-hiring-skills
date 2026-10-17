@@ -12,9 +12,9 @@
 
 | Task | Owner | Due | Done |
 |---|---|---|---|
-| Contract signed and checked for both countries (see Legal check) | | | |
+| Offer letter and contract signed, and checked for both countries (see Legal check) | | | |
 | Laptop shipped, bought locally or allowance paid. Arrives by: ________ | | | |
-| Backup power and internet: ask what the new hire has, such as a UPS (a battery that keeps power on during a cut) or a mobile hotspot. Agree what the company pays | | | |
+| Setup proof shared, the same as every new hire: device specs, an internet speed test and backup power details, such as a UPS (a battery that keeps power on during a cut) or a mobile hotspot. Agree what the company pays for | | | |
 | Accounts created: email, chat, video calls and the main tools: ________ | | | |
 | New hire signs in to every account and confirms each one works | | | |
 | Agree what client or personal data the new hire can see, and set access to match | | | |
