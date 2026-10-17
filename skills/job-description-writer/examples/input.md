@@ -57,7 +57,7 @@ Rachel signed off the CSM brief. Can you write the job post? I've pasted the sho
 4. Mock client call, 45 min video call (Daniel Okafor, Senior CSM)
 5. Values conversation, 30 min video call (Priya Nair, Head of Product)
 
-About 3 hours 15 minutes in total. We aim to finish within about two weeks. Everyone hears back within 5 working days at every stage.
+About 3 hours 15 minutes in total. We aim to finish within about two weeks. Everyone hears back within 3 working days at every stage.
 
 **How to apply:** CV and a few lines on why the role interests them, through the apply link. I read every application.
 

@@ -10,6 +10,7 @@
 | Contract type | Contractor, full time |
 | Location | Remote. You need to be based in Pakistan |
 | Overlap hours | 9am to 1pm US Central, Monday to Friday. In Pakistan, that's 8pm to midnight from early November to mid-March, and 7pm to 11pm from mid-March to early November, when US clocks go forward |
+| Setup | A laptop (Fernhill provides one), reliable internet and backup power, such as a UPS (a battery that keeps power on in a cut). [Minimum internet speed: add before posting] |
 | Start date | Tuesday 1 December 2026 |
 
 You'll be the main contact for about 40 physiotherapy clinics that use Fernhill to run their bookings. We've signed 60 new clinics since July, and every one of them needs a good start and regular check-ins. You'll make sure they get both.
@@ -48,7 +49,7 @@ You don't need all of these. If you're close, apply.
 4. Mock client call with Daniel: a 45-minute practice client call on video.
 5. Values conversation with Priya, our Head of Product: 30-minute video call.
 
-That's about 3 hours 15 minutes of your time in total. We aim to finish within about two weeks. You'll hear from us within 5 working days at every stage, whatever the answer.
+That's about 3 hours 15 minutes of your time in total. We aim to finish within about two weeks. You'll hear from us within 3 working days at every stage, whatever the answer.
 
 ## What we offer
 - 20 days of paid leave, plus Pakistan public holidays.
@@ -75,13 +76,14 @@ Fernhill welcomes applications from everyone. We decide on skills and evidence, 
 | "live and breathe customer success" | Removed | Suggests there's no room for a life outside work |
 | "Native English speakers preferred" | "Fluent spoken English" | Excludes people by origin. The job needs clear English, not a birthplace |
 
-**Word count:** 644 words (target 400 to 700)
+**Word count:** 679 words (target 400 to 700)
 
 ## Notes on this draft
 
 - **Before you post:** A person must read and edit this draft. Check names, dates, facts and tone.
 - `[Gross or net: add before posting]`: finance is still checking. Rachel can fill this in once they confirm.
 - `[Application link: add before posting]`: Hamza, add the careers page or LinkedIn apply link.
+- `[Minimum internet speed: add before posting]`: Rachel, set a minimum that handles video calls, and tell candidates they'll share a speed test before they start.
 - Left out the churn and workload details from the brief (three clinics leaving, 70 or more accounts per CSM). They're internal. I kept "60 new clinics since July", so check you're happy to share it.
 - Swapped "book of 40 clinics" and "churn" for plain words, so the post is easy to read for people new to customer success.
 - LinkedIn job posts don't show tables. Paste the key facts there as five short lines, each starting with the label in bold.

@@ -8,6 +8,7 @@
 | Contract type | <!-- Employee or contractor, full time or part time --> |
 | Location | <!-- Remote. Where the person must be based. Location, never nationality. --> |
 | Overlap hours | <!-- Hours and days in the team's zone, the same hours in the candidate's zone, and how daylight saving shifts them --> |
+| Setup | <!-- The device, internet and backup power the job needs, and any help the company gives --> |
 | Start date | <!-- Only if agreed. Otherwise delete this row. --> |
 
 <!-- 2 to 3 sentences: what the role is, who it serves and why it matters now. Write to "you". -->

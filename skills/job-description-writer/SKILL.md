@@ -55,15 +55,17 @@ Use the exact format below. Write to the reader as "you".
 Follow these rules while you write:
 
 - **Facts first.** The key facts box comes straight after the title: pay, contract type, location and overlap hours.
-- **Pay in full.** Give the range and currency. Say if it's per month or per year and gross or net. Say if it's a salary or a contractor fee. Use the currency the person will be paid in. Never convert currencies yourself.
+- **Pay in full.** Give the range and currency. Say if it's per month or per year and gross or net. Say if it's a salary or a contractor fee. Use the currency the person will be paid in: for cross-border roles that's usually the local currency, and sometimes USD. Never convert currencies yourself.
 - **Overlap in both time zones.** Give the hours in the team's zone and the candidate's zone. If either side changes its clocks, say when and how the hours shift. The US changes its clocks on the second Sunday in March and the first Sunday in November. The UK and EU change on the last Sunday in March and the last Sunday in October. Pakistan, India, the UAE and Saudi Arabia don't.
 - **Location, not nationality.** "You need to be based in Pakistan" is fine. "Pakistani nationals only" is not.
 - **Five must-haves at most.** Take them from the brief. Write each one as something the person can do. If the input has more than five, keep the five that matter most on day one, move up to three to "Nice to have" and cut the rest. List what you moved or cut in Notes.
 - **Abilities, not years.** Rewrite "5+ years of X" as what the person can do. No degree requirement unless a law or licence needs one.
+- **Say when experience doesn't matter.** If the role suits strong fresh graduates, write "Fresh graduates welcome" instead of any years requirement.
+- **Say what setup the job needs.** Add a "Setup" row to the key facts box: the device, internet and backup power the job needs, and any help the company gives. Candidates may be asked to show proof before they start, so they need to know upfront. If the details aren't given, use a placeholder.
 - **Three nice-to-haves at most.** Always follow them with: "You don't need all of these. If you're close, apply."
 - **Never invent.** No made-up company facts, benefits, numbers, stages, names or links. Use a placeholder in square brackets, such as `[Learning budget: add before posting]`, and list each one in Notes.
 - **Keep internal details out.** Churn, workload problems, team issues and budgets the user wants private don't belong in an ad. Say in Notes what you left out.
-- **Be honest about the process.** "How we hire" gives every stage with its format and length, the total candidate time, how long the whole process takes and when people hear back. If there's no reply promise, suggest one in Notes, such as "within 5 working days at every stage". If a take-home task takes more than 60 minutes, say in Notes it should be paid or swapped for a live exercise.
+- **Be honest about the process.** "How we hire" gives every stage with its format and length, the total candidate time, how long the whole process takes and when people hear back. If there's no reply promise, suggest one in Notes, such as "within 3 working days at every stage". If a take-home task takes more than 60 minutes, say in Notes it should be paid or swapped for a live exercise.
 - **CV extras.** If you're hiring in a market where CVs often include a photo, date of birth or marital status (for example Pakistan, India or the Gulf), add this to "How to apply": "Please leave out your photo, date of birth and marital status. We don't need them."
 - **Accessible format.** Short headings. One-line bullets where you can. No tables in the post except the key facts box. No emoji, no capital letters for emphasis, bold for labels only. Explain any jargon in brackets the first time.
 - **400 to 700 words.** Count the post only, from the title to the equal opportunity line. If it's too long, cut "What you'll do" and "About us" first. Never cut pay, overlap hours or "How we hire". If the input is too thin to reach 400 words, don't pad and don't invent. Show the count and say in Notes what would fill it out.
@@ -95,6 +97,7 @@ Follow these rules while you write:
 | Contract type | [Employee or contractor, full time or part time] |
 | Location | [Remote. Where the person must be based] |
 | Overlap hours | [Hours and days in the team's zone. The same hours in the candidate's zone, and how daylight saving shifts them] |
+| Setup | [The device, internet and backup power the job needs, and any help the company gives] |
 | Start date | [Only if agreed. Otherwise leave this row out] |
 
 [2 to 3 sentences: what the role is, who it serves and why it matters now.]
@@ -156,7 +159,7 @@ After the word count, add a short section called **Notes on this draft** with:
 ## Step 4: Check before you hand it over
 
 - [ ] The title is plain and searchable, with no hype words.
-- [ ] The key facts box is at the top: pay (or the placeholder), contract type, location and overlap in both time zones.
+- [ ] The key facts box is at the top: pay (or the placeholder), contract type, location, overlap in both time zones and the setup the job needs.
 - [ ] Five must-haves or fewer and three nice-to-haves or fewer, followed by "If you're close, apply".
 - [ ] No years-of-experience must-haves, and no degree unless a law or licence needs one.
 - [ ] Nothing from the "Avoid" table is in the post, and every swap is in the inclusion check.
