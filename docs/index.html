@@ -1,0 +1,328 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Remote Hiring Skills</title>
+<meta name="description" content="Free, open-source AI skills that help hiring teams plan, interview, communicate and onboard for remote and cross-border roles. AI drafts, humans decide.">
+<meta property="og:title" content="Remote Hiring Skills">
+<meta property="og:description" content="Free AI skills for remote and cross-border hiring. AI drafts, humans decide.">
+<meta property="og:image" content="https://raw.githubusercontent.com/osamabinjannat/remote-hiring-skills/main/assets/social-preview.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230f1f1a'/%3E%3Ccircle cx='16' cy='16' r='7' fill='%238fd4b4'/%3E%3C/svg%3E">
+<style>
+  :root {
+    --bg: #f7f5ef;
+    --surface: #ffffff;
+    --surface-2: #eef2ec;
+    --text: #13231d;
+    --muted: #4f6158;
+    --line: #dbe2dc;
+    --accent: #1f7a57;
+    --accent-ink: #ffffff;
+    --pill-bg: #d6f0e3;
+    --pill-ink: #0f3d2b;
+    --code-bg: #0f1f1a;
+    --code-ink: #e6f2ec;
+    --no: #9b3d2b;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0f1f1a;
+      --surface: #142a23;
+      --surface-2: #18322a;
+      --text: #f4f1ea;
+      --muted: #a9bdb3;
+      --line: #24423a;
+      --accent: #8fd4b4;
+      --accent-ink: #0f1f1a;
+      --pill-bg: #8fd4b4;
+      --pill-ink: #0f1f1a;
+      --code-bg: #0a1612;
+      --code-ink: #d9efe5;
+      --no: #f0a08f;
+    }
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font: 17px/1.6 "Segoe UI", system-ui, -apple-system, Roboto, "Helvetica Neue", Arial, sans-serif;
+  }
+  a { color: var(--accent); }
+  a:hover { text-decoration-thickness: 2px; }
+  .wrap { max-width: 1040px; margin: 0 auto; padding: 0 16px; }
+  @media (min-width: 720px) { .wrap { padding: 0 32px; } }
+
+  header.top { border-bottom: 1px solid var(--line); }
+  header.top .wrap { display: flex; align-items: center; justify-content: space-between; gap: 16px; min-height: 64px; flex-wrap: wrap; }
+  .brand { font-weight: 700; color: var(--text); text-decoration: none; font-size: 17px; }
+  nav a { color: var(--muted); text-decoration: none; margin-left: 18px; font-size: 15px; }
+  nav a:first-child { margin-left: 0; }
+  nav a:hover { color: var(--text); }
+
+  .hero { padding-top: 64px; padding-bottom: 40px; }
+  .kicker { font-size: 14px; letter-spacing: .1em; text-transform: uppercase; color: var(--accent); font-weight: 600; margin: 0; }
+  h1 { font-size: clamp(36px, 6vw, 60px); line-height: 1.05; letter-spacing: -0.02em; margin: 14px 0 18px; }
+  .lead { font-size: clamp(18px, 2.2vw, 21px); color: var(--muted); max-width: 720px; margin: 0; }
+  .pill { display: inline-block; background: var(--pill-bg); color: var(--pill-ink); font-weight: 700; border-radius: 999px; padding: 8px 18px; margin-top: 24px; }
+  .cta { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 28px; }
+  .btn { display: inline-block; padding: 12px 20px; border-radius: 10px; font-weight: 600; text-decoration: none; border: 1px solid var(--line); color: var(--text); background: var(--surface); }
+  .btn.primary { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+
+  section { padding: 40px 0; }
+  h2 { font-size: clamp(26px, 3.4vw, 34px); line-height: 1.15; margin: 0 0 8px; letter-spacing: -0.01em; }
+  .sub { color: var(--muted); margin: 0 0 24px; max-width: 720px; }
+
+  .cmd { position: relative; background: var(--code-bg); color: var(--code-ink); border-radius: 12px; padding: 16px 92px 16px 18px; font: 15px/1.6 ui-monospace, "Cascadia Code", Consolas, Menlo, monospace; overflow-x: auto; white-space: pre; margin: 0; }
+  .copy { position: absolute; top: 10px; right: 10px; font: 600 13px/1 "Segoe UI", system-ui, sans-serif; padding: 8px 12px; border-radius: 8px; border: 1px solid rgba(255,255,255,.2); background: rgba(255,255,255,.08); color: var(--code-ink); cursor: pointer; }
+  .copy:hover { background: rgba(255,255,255,.16); }
+  @media (max-width: 640px) { .cmd { padding: 52px 16px 16px; } }
+
+  .twocol { display: grid; gap: 16px; grid-template-columns: minmax(0, 1fr); }
+  @media (min-width: 720px) { .twocol { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); } }
+  .panel { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 20px 22px; }
+  .panel h3 { margin: 0 0 10px; font-size: 18px; }
+  .panel ul { margin: 0; padding-left: 20px; }
+  .panel li { margin: 6px 0; }
+  .panel.no h3 { color: var(--no); }
+
+  .stage { margin-top: 28px; }
+  .stage h3 { font-size: 14px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin: 0 0 12px; }
+  .grid { display: grid; gap: 14px; grid-template-columns: minmax(0, 1fr); }
+  @media (min-width: 640px) { .grid { grid-template-columns: 1fr 1fr; } }
+  @media (min-width: 960px) { .grid.three { grid-template-columns: 1fr 1fr 1fr; } }
+  .card { display: block; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 18px 20px; text-decoration: none; color: var(--text); transition: border-color .15s, transform .15s; }
+  .card:hover { border-color: var(--accent); transform: translateY(-1px); }
+  .card code { font: 600 15px/1.4 ui-monospace, "Cascadia Code", Consolas, Menlo, monospace; color: var(--accent); }
+  .card p { margin: 8px 0 0; color: var(--muted); font-size: 16px; }
+
+  .installs { display: grid; gap: 16px; grid-template-columns: minmax(0, 1fr); }
+  @media (min-width: 860px) { .installs { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); } }
+  .installs .panel p { margin: 0 0 12px; color: var(--muted); }
+  .installs ol { margin: 0; padding-left: 20px; }
+  .installs li { margin: 4px 0; }
+
+  table { width: 100%; border-collapse: collapse; font-size: 15px; }
+  th, td { text-align: left; padding: 10px 12px; border-top: 1px solid var(--line); vertical-align: top; }
+  th { color: var(--muted); font-weight: 600; border-top: 0; }
+  .table-scroll { overflow-x: auto; }
+  pre.before { background: var(--surface-2); border-radius: 12px; padding: 14px 16px; font: 14px/1.6 ui-monospace, "Cascadia Code", Consolas, Menlo, monospace; overflow-x: auto; margin: 0; white-space: pre-wrap; }
+  .note { margin-top: 14px; border-left: 3px solid var(--accent); padding: 4px 0 4px 14px; color: var(--muted); font-size: 15px; }
+  .note p { margin: 2px 0; }
+
+  footer { border-top: 1px solid var(--line); padding: 32px 0 48px; margin-top: 24px; color: var(--muted); font-size: 15px; }
+  footer .wrap { display: flex; flex-wrap: wrap; gap: 12px 28px; justify-content: space-between; }
+  footer a { color: var(--muted); }
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="#">remote-hiring-skills</a>
+    <nav>
+      <a href="#skills">Skills</a>
+      <a href="#install">Install</a>
+      <a href="https://github.com/osamabinjannat/remote-hiring-skills/blob/main/docs/hiring-playbook.md">Playbook</a>
+      <a href="https://github.com/osamabinjannat/remote-hiring-skills">GitHub</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <div class="wrap hero">
+    <p class="kicker">Free, open-source Agent Skills</p>
+    <h1>AI skills for remote hiring teams</h1>
+    <p class="lead">Eight skills that help recruiters, founders and hiring managers plan a role, run fair remote interviews, write to candidates and onboard new hires. Built from 150+ cross-border hires, mostly in Pakistan for teams in the US, UK and Gulf.</p>
+    <span class="pill">AI drafts, humans decide.</span>
+    <div class="cta">
+      <a class="btn primary" href="#install">Install the skills</a>
+      <a class="btn" href="https://github.com/osamabinjannat/remote-hiring-skills">View on GitHub</a>
+    </div>
+  </div>
+
+  <section>
+    <div class="wrap">
+      <p class="sub" style="margin-bottom:10px">In Claude Code, two commands install all eight:</p>
+      <pre class="cmd" id="cmd-cc">/plugin marketplace add osamabinjannat/remote-hiring-skills
+/plugin install remote-hiring-skills@remote-hiring-skills<button class="copy" data-copy="cmd-cc" type="button">Copy</button></pre>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap">
+      <h2>AI drafts, humans decide</h2>
+      <p class="sub">These skills draft, structure and summarise. They never score, rank, shortlist or reject real people. A hiring decision changes someone's life, so it needs a person who can explain it.</p>
+      <div class="twocol">
+        <div class="panel">
+          <h3>The skills will</h3>
+          <ul>
+            <li>Turn messy notes into a one-page role brief</li>
+            <li>Build a scorecard for your panel to use</li>
+            <li>Organise interview notes into evidence per competency</li>
+            <li>Draft kind, clear candidate emails for you to edit</li>
+            <li>Show where candidates wait in your pipeline</li>
+          </ul>
+        </div>
+        <div class="panel no">
+          <h3>The skills won't</h3>
+          <ul>
+            <li>Tell you who to hire</li>
+            <li>Fill in a scorecard for a real candidate</li>
+            <li>Recommend hire or no-hire</li>
+            <li>Decide who gets rejected</li>
+            <li>Judge faces, voices or "confidence"</li>
+          </ul>
+        </div>
+      </div>
+      <p class="sub" style="margin-top:20px">Every skill also leaves out protected characteristics such as age, gender, religion and marital status. It says "values alignment" or "culture add", never "culture fit". And it flags legal topics so you check with a local expert.</p>
+    </div>
+  </section>
+
+  <section id="skills">
+    <div class="wrap">
+      <h2>The skills</h2>
+      <p class="sub">One skill per hiring task. Each one comes with a worked example, tests and a misuse test that checks it refuses to rank or reject people.</p>
+
+      <div class="stage">
+        <h3>Plan the role</h3>
+        <div class="grid three">
+          <a class="card" href="https://github.com/osamabinjannat/remote-hiring-skills/tree/main/skills/role-intake"><code>role-intake</code><p>A one-page role brief: why the role exists, 30/60/90-day success, must-haves, pay, location and timezone overlap.</p></a>
+          <a class="card" href="https://github.com/osamabinjannat/remote-hiring-skills/tree/main/skills/scorecard-builder"><code>scorecard-builder</code><p>A weighted scorecard: 4 to 6 competencies, what strong and weak look like, and questions for each.</p></a>
+          <a class="card" href="https://github.com/osamabinjannat/remote-hiring-skills/tree/main/skills/job-description-writer"><code>job-description-writer</code><p>An inclusive remote job post with pay, location and overlap hours at the top.</p></a>
+        </div>
+      </div>
+
+      <div class="stage">
+        <h3>Interview</h3>
+        <div class="grid">
+          <a class="card" href="https://github.com/osamabinjannat/remote-hiring-skills/tree/main/skills/remote-interview-kit"><code>remote-interview-kit</code><p>A structured interview loop with fair checks for timezone overlap, async writing and remote-readiness.</p></a>
+          <a class="card" href="https://github.com/osamabinjannat/remote-hiring-skills/tree/main/skills/interview-debrief"><code>interview-debrief</code><p>Evidence per competency, where interviewers disagree and open questions. The panel decides.</p></a>
+        </div>
+      </div>
+
+      <div class="stage">
+        <h3>Communicate, onboard and improve</h3>
+        <div class="grid three">
+          <a class="card" href="https://github.com/osamabinjannat/remote-hiring-skills/tree/main/skills/candidate-emails"><code>candidate-emails</code><p>Rejection, feedback, update and offer-stage emails that sound human. Every draft is for a person to review.</p></a>
+          <a class="card" href="https://github.com/osamabinjannat/remote-hiring-skills/tree/main/skills/remote-onboarding-plan"><code>remote-onboarding-plan</code><p>A first-30-days plan: setup before day one, a buddy, check-ins and a first real deliverable.</p></a>
+          <a class="card" href="https://github.com/osamabinjannat/remote-hiring-skills/tree/main/skills/time-to-hire-audit"><code>time-to-hire-audit</code><p>Paste your pipeline data and see where candidates wait longest, with fixes.</p></a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="install">
+    <div class="wrap">
+      <h2>Install</h2>
+      <p class="sub">The skills follow the open <a href="https://agentskills.io">Agent Skills</a> format, so they work in most AI tools.</p>
+      <div class="installs">
+        <div class="panel">
+          <h3>Claude Code</h3>
+          <p>Run these inside Claude Code. Claude then picks the right skill from what you type.</p>
+          <pre class="cmd" id="cmd-cc2">/plugin marketplace add osamabinjannat/remote-hiring-skills
+/plugin install remote-hiring-skills@remote-hiring-skills<button class="copy" data-copy="cmd-cc2" type="button">Copy</button></pre>
+        </div>
+        <div class="panel">
+          <h3>Claude.ai</h3>
+          <ol>
+            <li>Download a skill's ZIP from the <a href="https://github.com/osamabinjannat/remote-hiring-skills/releases/latest">latest release</a>.</li>
+            <li>In <strong>Settings &gt; Capabilities</strong>, turn on <strong>Code execution and file creation</strong>.</li>
+            <li>Go to <strong>Customize &gt; Skills</strong>, click <strong>+</strong>, then <strong>+ Create skill</strong>, then <strong>Upload a skill</strong>.</li>
+            <li>Upload the ZIP and switch the skill on.</li>
+          </ol>
+        </div>
+        <div class="panel">
+          <h3>Codex, Cursor and other tools</h3>
+          <p>Install with the open-source skills installer:</p>
+          <pre class="cmd" id="cmd-npx">npx skills add osamabinjannat/remote-hiring-skills<button class="copy" data-copy="cmd-npx" type="button">Copy</button></pre>
+        </div>
+        <div class="panel">
+          <h3>Any AI chat</h3>
+          <p>Open any skill's <code>SKILL.md</code> on GitHub, copy all of it and paste it into ChatGPT, Gemini or any AI chat as your first message. Then give it your task.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap">
+      <h2>Before and after</h2>
+      <p class="sub">A hiring manager's wish list from intake notes, and the must-haves <code>role-intake</code> wrote from it.</p>
+      <div class="twocol">
+        <div>
+          <pre class="before">- 5+ yrs SaaS customer success
+- business degree
+- native English speaker
+- "preferably female"
+- healthcare software experience
+- knows HubSpot
+- can explain software to non-tech people
+- good at difficult convos
+- writes clearly
+- young and energetic</pre>
+        </div>
+        <div class="panel">
+          <div class="table-scroll">
+            <table>
+              <tr><th>#</th><th>Must be able to...</th><th>How we'll check it</th></tr>
+              <tr><td>1</td><td>Lead a client call in fluent spoken English and explain software simply</td><td>Mock client call</td></tr>
+              <tr><td>2</td><td>Stay calm and solve the problem when a client is upset</td><td>Mock client call</td></tr>
+              <tr><td>3</td><td>Write clear, friendly emails and ticket replies</td><td>Written exercise</td></tr>
+              <tr><td>4</td><td>Keep track of many client accounts at once</td><td>Hiring manager interview</td></tr>
+              <tr><td>5</td><td>Work 9am to 1pm US Central, Monday to Friday</td><td>Recruiter screen</td></tr>
+            </table>
+          </div>
+          <div class="note">
+            <p>Removed "preferably female". Gender can't be a hiring requirement.</p>
+            <p>Removed "young and energetic". Age can't be a hiring requirement.</p>
+            <p>Replaced "native English speaker" with "fluent spoken English".</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap">
+      <h2>Built on a public playbook</h2>
+      <p class="sub">The skills come from <a href="https://github.com/osamabinjannat/remote-hiring-skills/blob/main/docs/hiring-playbook.md">How I hire</a>: role intake, scorecards, job posts, remote interviews, debriefs, candidate emails, onboarding and pipeline speed. It also covers why time-to-hire is a queueing problem, not a sourcing problem.</p>
+      <div class="cta" style="margin-top:0">
+        <a class="btn" href="https://github.com/osamabinjannat/remote-hiring-skills/blob/main/docs/hiring-playbook.md">Read the playbook</a>
+        <a class="btn" href="https://github.com/osamabinjannat/remote-hiring-skills/blob/main/docs/roadmap.md">See the roadmap</a>
+        <a class="btn" href="https://github.com/osamabinjannat/remote-hiring-skills/blob/main/CONTRIBUTING.md">Contribute</a>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>Made by <a href="https://www.osamabinjannat.com">Osama Bin Jannat</a>. Free and open source under the <a href="https://github.com/osamabinjannat/remote-hiring-skills/blob/main/LICENSE">MIT license</a>.</span>
+    <span><a href="https://github.com/osamabinjannat/remote-hiring-skills/issues/new/choose">Report a bad output</a></span>
+  </div>
+</footer>
+
+<script>
+  document.querySelectorAll(".copy").forEach(function (button) {
+    button.addEventListener("click", function () {
+      var pre = document.getElementById(button.getAttribute("data-copy"));
+      var text = Array.prototype.filter.call(pre.childNodes, function (n) { return n.nodeType === 3; })
+        .map(function (n) { return n.textContent; }).join("").trim();
+      var done = function () { button.textContent = "Copied"; setTimeout(function () { button.textContent = "Copy"; }, 1600); };
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(done, function () { fallback(text); done(); });
+      } else { fallback(text); done(); }
+    });
+  });
+  function fallback(text) {
+    var area = document.createElement("textarea");
+    area.value = text; area.style.position = "fixed"; area.style.opacity = "0";
+    document.body.appendChild(area); area.select();
+    try { document.execCommand("copy"); } catch (e) {}
+    document.body.removeChild(area);
+  }
+</script>
+</body>
+</html>
