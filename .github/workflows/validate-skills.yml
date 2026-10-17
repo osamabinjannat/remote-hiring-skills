@@ -1,0 +1,34 @@
+# Validate skills
+#
+# What it does: runs .github/scripts/validate-skills.mjs on every push and pull request.
+# It checks that:
+#   - every skills/<name>/SKILL.md has valid frontmatter, a name that matches its folder,
+#     a description within the spec's 1024-character limit and a Guardrails section
+#   - every skill has examples/ (input.md and output.md) and tests/ (2 to 3 tests plus a misuse test)
+#   - every skill is listed in .claude-plugin/marketplace.json, so it can be installed
+#   - CLAUDE.md and AGENTS.md are identical
+# If anything fails, the log says what to fix in plain English.
+
+name: Validate skills
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get the repo
+        uses: actions/checkout@v7
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: 22
+
+      - name: Check every skill
+        run: node .github/scripts/validate-skills.mjs

@@ -1,0 +1,4 @@
+# Links the link checker skips.
+# This repo's own issue, discussion and release pages only exist once the repo is public
+# and those features are switched on, so checking them would fail on the first push.
+^https://github\.com/osamabinjannat/remote-hiring-skills/(issues|discussions|releases|stargazers)

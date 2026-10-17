@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and ideas
+    url: https://github.com/osamabinjannat/remote-hiring-skills/discussions
+    about: Ask a question, share how you use the skills or float an idea before it becomes an issue.

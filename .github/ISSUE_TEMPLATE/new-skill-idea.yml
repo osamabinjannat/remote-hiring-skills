@@ -1,0 +1,65 @@
+name: New skill idea
+description: Suggest a hiring task a new skill should help with.
+title: "[Skill idea] "
+labels: ["skill idea"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the idea. Check the [roadmap](https://github.com/osamabinjannat/remote-hiring-skills/blob/main/docs/roadmap.md) first in case it's already planned.
+
+        Remember the core rule: **AI drafts, humans decide.** Skills can draft, structure and summarise. They can't score, rank, shortlist or reject people.
+  - type: input
+    id: name
+    attributes:
+      label: Suggested skill name
+      description: Lowercase words joined by hyphens.
+      placeholder: reference-check-guide
+    validations:
+      required: true
+  - type: dropdown
+    id: stage
+    attributes:
+      label: Hiring stage
+      options:
+        - Plan the role
+        - Source and attract
+        - Interview
+        - Communicate
+        - Decide and offer
+        - Onboard
+        - Improve the process
+        - Candidate side
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What hiring task does it help with?
+      description: Who uses it, and what's slow, hard or error-prone today?
+      placeholder: Hiring managers skip reference checks or ask vague questions like "would you hire them again?"
+    validations:
+      required: true
+  - type: textarea
+    id: output
+    attributes:
+      label: What should it produce?
+      description: Describe the output. Tables, checklists and templates are best.
+      placeholder: A list of reference questions tied to the scorecard, a call script and a notes template.
+    validations:
+      required: true
+  - type: textarea
+    id: example
+    attributes:
+      label: Example input (optional)
+      description: What would someone paste or type? Use made-up people and companies only.
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Checks
+      options:
+        - label: This skill would draft, structure or summarise. It wouldn't score, rank, shortlist or reject anyone.
+          required: true
+        - label: I haven't included any real candidate data.
+          required: true
+        - label: I'd like to build this skill myself.

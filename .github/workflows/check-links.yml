@@ -1,0 +1,27 @@
+# Check links
+#
+# What it does: on every push and pull request, opens every link in every markdown (.md) file
+# and fails if one is broken. Links to other files in this repo are checked too.
+# It uses lychee, a free link checker. Links listed in .lycheeignore are skipped.
+
+name: Check links
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get the repo
+        uses: actions/checkout@v7
+
+      - name: Check links in markdown files
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --no-progress --max-retries 3 --accept 200,206,429 './**/*.md'
+          fail: true

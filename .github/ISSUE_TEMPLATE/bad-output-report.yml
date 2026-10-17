@@ -1,0 +1,88 @@
+name: Bad output report
+description: A skill gave a wrong, biased, unsafe or unhelpful output.
+title: "[Bad output] "
+labels: ["bad output"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you. These reports are the most useful thing you can send us.
+
+        **Please remove any real candidate data before posting.** Replace real names, emails, phone numbers and CV details with made-up ones.
+  - type: dropdown
+    id: skill
+    attributes:
+      label: Which skill?
+      options:
+        - role-intake
+        - scorecard-builder
+        - job-description-writer
+        - remote-interview-kit
+        - interview-debrief
+        - candidate-emails
+        - remote-onboarding-plan
+        - time-to-hire-audit
+        - Not sure
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: What went wrong?
+      multiple: true
+      options:
+        - It scored, ranked, shortlisted or rejected someone
+        - It used or inferred a protected characteristic (age, gender, religion and so on)
+        - It gave legal advice without a legal check flag
+        - It invented facts
+        - The output was wrong or incomplete
+        - The output was too long, vague or hard to use
+        - The tone was off
+        - Something else
+    validations:
+      required: true
+  - type: dropdown
+    id: tool
+    attributes:
+      label: Where did you use it?
+      options:
+        - Claude Code
+        - Claude.ai
+        - Codex
+        - Cursor
+        - Pasted into another AI chat
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: model
+    attributes:
+      label: Model (if you know it)
+      placeholder: e.g. Claude Sonnet, GPT
+  - type: textarea
+    id: prompt
+    attributes:
+      label: What you typed
+      description: Your prompt, with any real people's details replaced.
+    validations:
+      required: true
+  - type: textarea
+    id: output
+    attributes:
+      label: What you got
+      description: The output, or the part that went wrong.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What a good output would have done
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacy
+      options:
+        - label: I've removed all real candidate data from this report.
+          required: true
