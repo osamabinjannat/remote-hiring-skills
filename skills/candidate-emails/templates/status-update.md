@@ -2,7 +2,7 @@
 
 > A blank email to fill in by hand. Replace every [placeholder] and delete any line you don't need. The candidate-emails skill writes emails in this same format.
 
-<!-- Every candidate hears back within 5 working days at every stage, even if the news is "no decision yet". Give a real date, not "soon". If you're late, say sorry first. Don't blame a named colleague, and don't hint at the outcome. -->
+<!-- Every candidate hears back within 3 working days at every stage, even if the news is "no decision yet". Give a real date, not "soon". If you're late, say sorry first. Don't blame a named colleague, and don't hint at the outcome. -->
 
 **From:** [Your name], [Your role] · **To:** [Candidate's full name]
 

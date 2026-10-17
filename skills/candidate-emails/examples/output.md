@@ -63,7 +63,7 @@ Rachel
 
 **Facts to check**
 - Bilal: 9am US Central is 8pm in Karachi. US Central moved to standard time on 1 November, and Pakistan doesn't change its clocks.
-- Bilal: his last interview was Wednesday 4 November. Send this by Wednesday 11 November to keep the 5-working-day promise. Sending it today also gives him time to pick a call slot.
+- Bilal: his last interview was Wednesday 4 November, so today (Monday 9 November) is the third working day. Send this today to keep the 3-day promise. It also gives him time to pick a call slot.
 - Sana: the overlap is 8pm to midnight her time from her start date. Check the 14 March 2027 date for the US clock change.
 - Sana: you wrote "20 days paid leave". Add whether that's per year, and how it works for someone starting in December.
 - Sana: the email doesn't say when or how she'll be paid. Make sure the contract covers both.

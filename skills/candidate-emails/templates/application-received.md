@@ -12,7 +12,7 @@ Hi [First name],
 
 Thank you for applying for the [Role] role at [Company]. We've got your application.
 
-You'll hear from us by [day and date, within 5 working days], whatever the news. [Optional: Our process has [number] stages: [stage names]. It usually takes about [number] weeks from start to finish.]
+You'll hear from us by [day and date, within 3 working days], whatever the news. [Optional: Our process has [number] stages: [stage names]. It usually takes about [number] weeks from start to finish.]
 
 If you have any questions in the meantime, just reply to this email.
 
