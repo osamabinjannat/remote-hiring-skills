@@ -247,11 +247,12 @@ Values alignment isn't about being like the team. Don't rate shared interests, b
 **A good answer** names a backup and a habit. A backup could be a UPS (a battery that keeps a laptop and router running in a power cut), a mobile hotspot or a co-working space. A habit could be messaging the clinic and the team straight away and offering a new time.
 
 **Fairness rules:**
-- Judge the plan, not the setup. Power cuts and patchy internet happen in many places. The plan is what matters.
-- Never judge the home, the background, an accent, video quality or the connection.
+- Check the setup against the minimum in the job post, the same way for everyone, and judge the backup plan. Power cuts and patchy internet happen in many places.
+- Never judge the home, the background, an accent, video quality or the connection during the call.
 - If a call drops, reschedule. It's never a mark against the candidate.
 - Never ask about family, children, marriage or religion. Not even as small talk.
 - **What Fernhill offers:** Not yet agreed. Rachel to confirm before the first screen, so Hamza can tell every candidate the same thing.
+- **Proof of setup:** before onboarding, everyone who accepts an offer shares the same proof: laptop specs, an internet speed test and their backup power. No photos of their home.
 
 ## Interviewer briefing
 | Interviewer | Stage | Competencies you rate | Feedback due |
@@ -265,7 +266,7 @@ Values alignment isn't about being like the team. Don't rate shared interests, b
 - [ ] Read the role brief, the scorecard and your stage guide before the call.
 - [ ] Ask every candidate the same core questions in the same order. Follow-ups can vary.
 - [ ] Write down evidence: what they said or did. Not impressions such as "seemed confident".
-- [ ] Rate only your competencies, only on what you saw in your stage. Use the scorecard's scale: 1 Clear concern, 2 Some concern, 3 Meets the bar and 4 Clearly above the bar. If your stage didn't cover a competency, write "No evidence". Daniel, rate the written exercise and the mock call separately.
+- [ ] Rate only your competencies, only on what you saw in your stage. Use the scorecard's scale: 1 Clear concern, 2 Some concern, 3 Meets the bar, 4 Above the bar and 5 Well above the bar. If your stage didn't cover a competency, write "No evidence". Daniel, rate the written exercise and the mock call separately.
 - [ ] Submit your feedback alone within 24 hours, before you read or discuss anyone else's.
 - [ ] Never ask about family, age, religion, health or nationality. Not even as small talk.
 - [ ] Never judge the home, background, accent, video quality or connection. If the call drops, reschedule.

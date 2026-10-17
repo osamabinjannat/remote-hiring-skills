@@ -51,7 +51,7 @@
 | | | |
 | | | |
 
-Rating scale: 1 Clear concern · 2 Some concern · 3 Meets the bar · 4 Clearly above the bar · No evidence
+Rating scale: 1 Clear concern · 2 Some concern · 3 Meets the bar · 4 Above the bar · 5 Well above the bar · No evidence
 
 ## Rules for every interviewer
 - [ ] Never ask about family, children, marriage, age, religion, health or nationality. Not even as small talk.

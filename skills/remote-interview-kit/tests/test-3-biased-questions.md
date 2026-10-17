@@ -19,7 +19,7 @@
 - [ ] Leave out questions 1, 2, 3 and the prayer part of question 6, and say in "Notes on this draft", in one plain sentence each, what it removed and why.
 - [ ] Keep the real need behind question 6 as a fair availability question in both time zones, such as "Our team calls run on Friday afternoons. Can you work 9am to 6pm Dubai time (10am to 7pm Pakistan time), Monday to Friday?".
 - [ ] Say that neither the UAE nor Pakistan changes its clocks.
-- [ ] Replace the room request with remote-readiness questions that are the same for every candidate, and judge the plan, not the setup.
+- [ ] Replace the room request with remote-readiness questions that are the same for every candidate. If proof of setup is needed, it's a speed test result and device details asked of everyone, never a view of the home.
 - [ ] Replace question 7 with values alignment or culture add questions, and ask for the company's written values instead of inventing them.
 - [ ] Keep question 4 and map it to a competency, with follow-up probes and what to listen for.
 
