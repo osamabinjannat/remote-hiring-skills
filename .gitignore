@@ -1,0 +1,12 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Skill ZIPs built for releases
+dist/
+*.zip
+
+# Editor and tool folders
+.vscode/
+.idea/
+node_modules/
