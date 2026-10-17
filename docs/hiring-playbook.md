@@ -1,10 +1,10 @@
 # How I hire
 
-I'm Osama Bin Jannat. I've hired 150+ people into a company that started with no HR function, and I've screened more than 56,000 CVs. Most of those hires were remote and cross-border: people in Pakistan working for teams in the US, UK and Gulf.
+I'm Osama Bin Jannat, Chief People Officer at Z360. I've hired 150+ people into a company that started with no HR function, and I've screened more than 56,000 CVs. Most of those hires were remote and cross-border: people in Pakistan working for teams in the US, UK and Gulf.
 
-This is how I hire. It's also the source material for every skill in this repo. If a skill and this playbook disagree, the playbook wins, so open an issue and we'll fix the skill.
+This is how we hire at Z360. It's also the source material for every skill in this repo. If a skill and this playbook disagree, the playbook wins, so open an issue and we'll fix the skill.
 
-<!-- TODO: Osama to review. Sections marked with this comment are sensible defaults written for you to check, edit or replace. Sections without it come straight from your brief. -->
+<!-- TODO: Osama to review. A few sections still use sensible defaults because the interview didn't cover them. Each one is marked with this comment. -->
 
 ## Contents
 
@@ -23,79 +23,79 @@ This is how I hire. It's also the source material for every skill in this repo. 
 
 ## Six principles
 
-1. **Define the role before you look for people.** The role brief and the scorecard come before sourcing. Always. If you can't say what success looks like in 90 days, you're not ready to hire.
-2. **Speed is a queueing problem, not a sourcing problem.** We cut average time-to-hire from 41 days to 19. We didn't add sourcers. We removed the places where candidates sat waiting.
+1. **Define the role before you look for people.** The role brief and the scorecard come before sourcing. Always. If you can't say why you're hiring and what happens if you don't, you're not ready to hire.
+2. **Speed is a queueing problem, not a sourcing problem.** We cut average time-to-hire from 41 days to 19. We didn't add sourcers. We removed the places where candidates sat waiting, starting with interview stages we didn't need.
 3. **AI drafts, humans decide.** AI is great at drafting and at finding information. It is unsafe at judging people.
 4. **Remote hiring needs extra checks.** Timezone overlap, written async communication and remote-readiness. A great interview on video tells you little about how someone works across a 10-hour time difference.
 5. **Cross-border hiring needs paperwork that holds up.** Contracts and records have to work in both countries, not just yours.
-6. **Be fast and kind with candidates.** Every candidate hears back. Silence is the worst answer you can give.
+6. **Be fast and kind with candidates.** Every candidate hears back within 3 days. Silence is the worst answer you can give.
 
 ## Role intake
 
-<!-- TODO: Osama to review -->
+Every hire starts with an intake between two people: the manager of the department that's hiring (the hiring manager) and HR. HR helps the manager decide whether the role is ready to open.
 
-Every hire starts with a 45-minute intake meeting between the recruiter and the hiring manager. If the role is new headcount, someone who owns the budget joins for the last 10 minutes.
+We run it through a **role request form**. The manager fills it in, and HR works through it with them, including the numbers such as budget. The output is a one-page **role brief** (a short document that says why the role exists, what success looks like and what the person must be able to do). No brief, no job post.
 
-The output is a one-page **role brief** (a short document that says why the role exists, what success looks like and what the person must be able to do). The hiring manager signs it off before anything else happens. No brief, no job post.
-
-**Questions I always ask:**
+**What the form asks:**
 
 | Question | Why it matters |
 |---|---|
-| Why does this role exist now? What happens if we don't hire? | Tells you if the role is real and how urgent it is |
-| What does this person deliver in their first 30, 60 and 90 days? | Turns a vague role into outcomes you can interview for |
-| What must they be able to do on day one, and what can they learn? | Separates must-haves from nice-to-haves |
-| What's the budget range, and in which currency? | No budget means no hire. Find out now, not at offer stage |
-| Where can this person be based, and how many hours must they overlap with the team? | The two remote questions that decide your candidate pool |
-| Who's on the interview panel, and when are they free? | Book interview slots now. This is the biggest speed lever |
-| Who makes the final decision? | Avoids a surprise approver at the end |
+| The basics: title, team, level and who the person reports to | Gets everyone describing the same role |
+| What are the key responsibilities? | Turns a job title into real work you can interview for |
+| Why are we hiring for this role? | Tells you whether the role is real, new or a replacement |
+| What's the impact on the business if we don't hire? | Shows how urgent it is, and whether it's worth the budget |
+| What's the budget, and in which currency? | No budget means no hire. Find out now, not at offer stage |
 
-**What hiring managers often get wrong, and how I push back:**
+For remote roles, two more questions: **where can the person be based, and how many hours must they overlap with the team?** Those two answers decide your candidate pool.
 
-- **The wish list.** Ten must-haves describe nobody. I ask: "If they had only five of these, which five?"
-- **Years as a stand-in for skill.** "Five years of experience" isn't a skill. I ask: "What will they be able to do after those five years?"
-- **"I'll know them when I see them."** That's how bias gets in. If you can't describe it, you can't fairly test for it.
-- **No time in the calendar.** If the panel can't commit interview slots, the role isn't ready to open.
+**What hiring managers most often get wrong:** explaining what they actually need, and why they're hiring. "We need someone strong" isn't a requirement, and "we're busy" isn't a reason. The form makes both explicit. If a manager can't describe the impact of the seat staying empty, the role isn't ready to open yet.
 
 ## Scorecards
 
-<!-- TODO: Osama to review -->
+A **scorecard** is the list of what the role needs, what good looks like for each item and how you'll test it. We build it from the role brief, before the job post goes out.
 
-A **scorecard** is the list of what the role needs, what good looks like for each item and how you'll test it. I build it from the role brief, before the job post goes out.
-
-- **4 to 6 competencies.** A competency is a skill or behaviour the job needs, such as "written communication" or "handles difficult customer conversations". More than six and interviewers stop paying attention.
+- **4 to 6 competencies.** A competency is a skill or behaviour the job needs. More than six and interviewers stop paying attention.
 - **Weights add up to 100%.** This forces a conversation about what matters most.
+- **A 1 to 5 rating scale,** where 3 means "meets the bar". Every number has a written definition, so a 4 means the same thing to every interviewer.
 - **Strong and weak are written as behaviour.** "Writes a clear status update a stranger could act on" beats "good communicator".
-- **Every competency has questions and an owner.** Each one is tested in a named interview stage by a named person.
-- **A 4-point scale with no middle option.** 1 = clear concern, 2 = some concern, 3 = meets the bar, 4 = clearly above the bar. No "3 out of 5" fence-sitting.
-- **Interviewers write their feedback alone, before the debrief.** No one reads anyone else's notes first. This is the single best guard against group-think.
+- **Interviewers only see their own feedback.** No one reads anyone else's notes or ratings before writing their own. This is the single best guard against group-think.
 
-**Competencies that appear on almost every remote scorecard:**
+**The core competencies for remote roles.** These five show up on almost every remote scorecard we build:
 
-| Competency | What strong looks like |
+| Competency | What it means |
 |---|---|
-| Written async communication | Writes updates and questions that someone in another time zone can act on without a call |
-| Self-management | Plans their own day, flags blockers early, finishes what they start without reminders |
-| Collaboration across time zones | Uses overlap hours well, hands work over cleanly at the end of the day |
-| Values alignment | Behaves in line with the company's stated values, with examples. Not "someone I'd have a beer with" |
+| Written communication | Writes so that someone in another time zone can act on it without a call |
+| Self-direction | Knows when to push on alone and when to stop and ask |
+| Proactive transparency | Raises problems early, before they become surprises |
+| Reliability | Does what they said, when they said they would |
+| Async judgment | Documents decisions, and knows when a call is actually needed |
 
-**Values alignment and culture add.** I never use "culture fit". It's vague and it usually means "like us". **Values alignment** means the person's past behaviour matches the values the company has written down. **Culture add** means what new perspective or strength they'd bring that the team doesn't have yet.
+**Values alignment.** Values alignment is observable behaviour that matches how the team works. It isn't "culture fit", and it isn't personal similarity. Here's how we do it:
+
+1. Pick two or three values that genuinely set the team apart. Not ten.
+2. Define what each value looks like in action.
+3. Ask behavioural questions ("Tell me about a time...") for each one.
+4. Rate answers against written anchors, the same way as any other competency.
+5. Interviewers record what they saw, such as "flagged a slipping deadline early, with a plan". Never vague impressions.
+
+**Culture add** is the other half: what new perspective or strength the person would bring that the team doesn't have yet.
 
 ## Job descriptions
-
-<!-- TODO: Osama to review -->
 
 A job post is an advert, not a legal document. It should be short enough to read on a phone.
 
 **What goes at the top, before anything else:**
 
-1. Salary range, with currency and whether it's gross or net.
-2. Remote policy and where the person can be based.
-3. Timezone overlap, in hours, shown in both time zones.
+1. **The salary range. Always, even for cross-border roles.** We usually show it in local currency, and sometimes in USD. Use the currency you'll actually pay in, and say whether it's an employee salary or a contractor fee.
+2. **"Remote", clearly.** Saying "remote" upfront attracts better candidates than burying it.
+3. **Where the person can be based, and the overlap hours** in both time zones.
+4. **The setup the job needs**, such as a laptop spec, internet speed and power backup, so candidates know before they apply.
 
-**Structure I use:**
+**If experience doesn't matter, say so.** When the role suits strong fresh graduates, write "fresh graduates welcome" instead of asking for years. Years of experience shut out good people and prove little.
 
-1. A plain, searchable title, then a key facts box: salary, contract type, location and overlap (the three above).
+**Structure:**
+
+1. A plain, searchable title, then a key facts box: salary, contract type, location and overlap.
 2. Two or three sentences on what the role is and why it matters.
 3. What you'll do in your first 90 days.
 4. What you need: no more than five must-haves.
@@ -106,67 +106,66 @@ A job post is an advert, not a legal document. It should be short enough to read
 
 **Rules:**
 
-- **Always publish the salary range.** For cross-border roles, show it in the currency you'll pay in and say if it's an employee salary or a contractor fee. Some places legally require pay ranges in job posts.
 - **No "native English speaker".** Ask for "fluent written and spoken English" instead.
 - **No degree requirement** unless the law or a licence requires it.
-- **No years-of-experience must-haves.** Describe what the person must be able to do.
 - **No gendered or age-coded words.** No "rockstar", "ninja", "young and energetic" or "digital native".
 - **Location, not nationality.** You can say where someone must be based for legal or tax reasons. You can never ask for a nationality, religion, gender, age or marital status. In some markets, job ads still ask for these. We don't.
 - **400 to 700 words.**
 
 ## Remote interviews
 
-<!-- TODO: Osama to review -->
-
 **The loop:**
 
-| # | Stage | Format | Length | Run by | Tests |
-|---|---|---|---|---|---|
-| 1 | Recruiter screen | Video call | 30 min | Recruiter | Motivation, salary match, timezone overlap, logistics |
-| 2 | Written exercise | Async, at home | 45 to 60 min | Set by hiring manager | Written async communication, role skills |
-| 3 | Hiring manager interview | Video call | 45 min | Hiring manager | Role skills, first 90 days |
-| 4 | Work sample | Live video call | 60 min | A future teammate | Doing the actual work |
-| 5 | Values conversation | Video call | 30 min | Someone outside the team | Values alignment, culture add, collaboration |
+| Stage | Format | Run by | What it checks |
+|---|---|---|---|
+| HR interview | Video call | HR or the recruiter | Motivation, salary match, timezone overlap, remote-readiness |
+| Take-home task | At home, in their own time | Set by the hiring team | The actual work, and written communication |
+| Technical interview | Video call | Someone who does the job | Skills for the role, plus a walk-through of the take-home |
+| Final interview | Video call | The hiring manager <!-- TODO: Osama to review: who runs the final? --> | The first 90 days, values alignment, culture add |
 
-- **Total candidate time: under 4 hours.** Take-home work over 60 minutes is paid, or replaced by a live exercise.
-- **The whole loop finishes within 10 working days** of the recruiter screen.
-- **Every interviewer gets the scorecard and their questions before the interview.**
+**Fewer stages.** Every extra stage adds days of waiting. Merging two interviews into one was the biggest single change in cutting our time-to-hire.
 
-**Testing async communication.** The written exercise is a short, realistic task. For example: "Here's a message from a frustrated client. Write your reply, and a two-line update for your manager who's asleep." I look for clarity, structure and whether they ask good questions when the brief is unclear.
+**The take-home task produces something the candidate can publish.** We design it so the result is useful to the candidate too: a piece of work they can put in their portfolio or share publicly. It's never unpaid work for our business.
 
-**Testing timezone overlap.** I ask openly, not as a trap: "Our overlap is 9am to 1pm US Central. That's 7pm to 11pm in Pakistan for most of the year, and 8pm to midnight when US clocks go back. How would that fit your life, week after week?" Then I listen. People who've done it before know the real cost.
+<!-- TODO: Osama to review: time limit and whether longer tasks are paid. The skills currently say: keep it under 60 minutes, or pay for it. -->
 
-**Testing remote-readiness fairly.**
+**Every interviewer gets the scorecard and their questions before the interview.**
 
-- Ask every candidate the same questions: "Where do you usually work from? What's your plan if your power or internet goes down during a client call?"
-- Judge the plan, not the setup. A good answer names a backup (a UPS, a mobile hotspot, a co-working space) and a habit (telling people early).
-- Never judge the home, the background, an accent or video quality.
-- Never ask about family, children, marriage or religion. Not even as small talk.
-- If a call drops, reschedule. It's never a mark against the candidate.
-- If the company can help with equipment or backup power, say so upfront.
+**Testing timezone overlap.** We ask openly, not as a trap: "Our overlap is 9am to 1pm US Central. That's 7pm to 11pm in Pakistan for most of the year, and 8pm to midnight when US clocks go back. How would that fit your life, week after week?" Then we listen. People who've done it before know the real cost.
+
+**Testing remote-readiness.** We check it twice. In the interview, we ask about the candidate's system, power backup and internet. Before onboarding, we ask them to show proof: for example the laptop's specs, an internet speed test and what they use for backup power.
+
+How we keep that fair:
+
+- **Say what's needed upfront,** in the job post, so nobody is surprised.
+- **Ask everyone for the same proof,** at the same stage.
+- **Check the setup, not the home.** A speed test result and device details are enough. Never ask for photos or tours of someone's home, and never judge the background, an accent or video quality.
+- **Help where you can.** If the company can support equipment or backup power, say so. A missing UPS (a battery that keeps power on in a cut) shouldn't cost someone a job you'd otherwise offer them.
+- **If a call drops, reschedule.** It's never a mark against the candidate.
+- **Never ask about family, children, marriage or religion.** Not even as small talk.
 
 ## Debriefs
 
-<!-- TODO: Osama to review -->
+<!-- TODO: Osama to review. This section is still a default. -->
 
 - **Everyone submits written feedback within 24 hours** of their interview, before seeing anyone else's.
 - **The debrief happens within 2 working days** of the last interview. 30 minutes.
-- **The recruiter runs it.** They go competency by competency. Evidence first, rating second.
+- **HR or the recruiter runs it.** They go competency by competency. Evidence first, rating second.
 - **The most junior person speaks first** so the most senior person's view doesn't anchor everyone.
 - **Disagreement is useful.** When interviewers disagree, we look at the evidence each one has. If we still disagree, we name one specific thing to find out (a follow-up question or a reference check). We don't average it away.
 - **"Gut feel" isn't evidence.** Comments like "not a culture fit" or "something felt off" get the question: "What did they say or do?"
-- **The hiring manager makes the final call.** The recruiter makes sure the process was followed and the decision is written down with its reasons.
+- **The hiring manager makes the final call.** HR makes sure the process was followed and the decision is written down with its reasons.
 
 ## Candidate communication
 
-<!-- TODO: Osama to review -->
-
-- **Every candidate hears back within 5 working days at every stage.** Even if the update is "we haven't decided yet, you'll hear by Friday".
-- **The recruiter sends early-stage emails.** The hiring manager calls or emails final-stage candidates personally, whether it's a yes or a no.
-- **Feedback on request after any interview.** Short, specific and tied to the scorecard. Only feedback the panel actually gave.
+- **Every candidate hears back within 3 days, at most, at every stage.** Even if the update is "we haven't decided yet, you'll hear by Friday".
+- **The recruiter sends candidate emails, through our hiring system.** Templates keep them fast. The recruiter makes sure each one is right before it goes.
+- **Feedback depends on the stage.** Early on, a rejected candidate gets a kind, general email. After any interview, they get proper feedback: specific, tied to the scorecard and only what the panel actually said.
 - **Times are always shown in the candidate's time zone.**
 
-**What I never say in a rejection:**
+**We never discourage a candidate.** No "you're not good enough" and no "you're not ready for a role like this". A no is about this role, at this time.
+
+**What else we never say in a rejection:**
 
 - "We went with a stronger candidate." It invites comparison and helps no one.
 - "You're not a culture fit."
@@ -176,18 +175,19 @@ A job post is an advert, not a legal document. It should be short enough to read
 
 ## Onboarding
 
-<!-- TODO: Osama to review -->
-
 **Before day one:**
 
-- Signed contract, checked for both countries. See [cross-border paperwork](#cross-border-paperwork).
-- Laptop shipped or equipment allowance paid. Backup power or internet support agreed if needed.
-- Accounts created and tested: email, chat, the main tools.
-- A buddy named and introduced by email.
-- The first week's calendar sent, with times in both time zones, the new hire's first.
-- Payment details collected through a secure channel. Never over chat.
+- The offer letter and the contract are signed. See [cross-border paperwork](#cross-border-paperwork).
+- The new hire's setup is checked: system, internet and power backup. See [remote interviews](#remote-interviews).
+- Arrangements are in place: equipment, accounts and access, all tested.
+- A buddy is named and introduced.
+- Payment details are collected through a secure channel. Never over chat.
 
-**The first 30 days:**
+**The buddy comes from the same team.** Not from another department and not the manager. They know the work, the tools and the people the new hire will deal with every day.
+
+**We run onboarding from a checklist.** Every item is ticked off, so nothing depends on someone remembering.
+
+<!-- TODO: Osama to review: the first-30-days rhythm below is still a default. -->
 
 | When | What happens |
 |---|---|
@@ -196,41 +196,43 @@ A job post is an advert, not a legal document. It should be short enough to read
 | Weeks 2 to 3 | Own small pieces of real work. Weekly 1:1 with the manager |
 | By day 30 | Deliver the first real deliverable. 30-day check-in |
 
-**The buddy** is a peer, not the manager. Ideally in an overlapping time zone. They answer the "silly" questions. A 15-minute check-in every day in week one, then twice a week until day 30.
-
 **The first real deliverable** is small, useful and visible, and it's due by day 30. "Finish onboarding" isn't a deliverable. "Run your first client check-in calls and write up the three biggest issues" is.
 
-**Check-ins:** day 1, day 3, day 7, day 14 and day 30, with the same few questions each time: What's going well? What's confusing? What do you need from me?
+**Check-ins:** day 1, day 3, day 7, day 14 and day 30, with the same three questions each time: What's going well? What's confusing? What do you need from me?
 
 ## Pipeline speed
 
-<!-- TODO: Osama to review. Add the specific waits you removed to get from 41 to 19 days, and which change made the biggest difference. -->
-
 Time-to-hire is a queueing problem. A candidate spends most of their time in a hiring process waiting, not being interviewed. Waiting for a reply. Waiting for a slot. Waiting for feedback. Waiting for a decision. Waiting for approval.
 
-We cut average time-to-hire from 41 days to 19 days by finding those waits and removing them. Not by adding sourcers.
+We cut average time-to-hire from 41 days to 19 by finding those waits and removing them. Not by adding sourcers.
+
+**The biggest change: fewer interview stages.** We removed stages that didn't tell us anything new, and merged two interviews into one. Every stage you remove takes away a scheduling wait, a feedback wait and a chance for the candidate to drop out.
+
+**Targets help, but structure helps more.** We set time targets for each stage, and honestly, we often miss them. A target only works when someone watches it every day. Removing a stage removes the wait for good.
 
 **Where candidates usually wait:**
 
 | Wait | The fix |
 |---|---|
+| Too many interview stages | Remove stages that repeat each other. Merge interviews that test the same things |
 | Waiting for the first reply after applying | Screen new applicants every working day, not in weekly batches |
 | Scheduling back-and-forth | Book panel slots at intake. Send a booking link, not "when are you free?" |
 | Waiting for interviewer feedback | Feedback due within 24 hours. Hold the debrief slot early, but it only goes ahead once all feedback is in |
 | Waiting to "see a few more" before deciding | Decide on each candidate against the scorecard, not against the next applicant |
 | Waiting for offer approval | Agree the salary range and sign-off at intake, so the offer is ready the day you decide |
-| Waiting for a busy hiring manager | Give the hiring manager a short daily list of what's waiting on them |
 
 **Stage targets:**
 
 | Stage | Target |
 |---|---|
-| Application to first reply | 2 working days |
+| Any stage to the candidate hearing back | 3 days at most |
 | Interview to written feedback | 1 working day |
 | Last interview to debrief | 2 working days |
 | Decision to offer sent | 2 working days |
 
-**Measure it.** For each candidate, record the date they entered each stage. The time between stages shows you where the queues are. The biggest waits are almost always between steps, not inside them.
+<!-- TODO: Osama to review: what pipeline data you have and the stage names you use. -->
+
+**Measure it.** For each candidate, record the date they entered each stage. Most hiring systems can export this. The time between stages shows you where the queues are. The biggest waits are almost always between steps, not inside them.
 
 ## Cross-border paperwork
 
@@ -240,9 +242,10 @@ We cut average time-to-hire from 41 days to 19 days by finding those waits and r
 
 When you hire someone in another country, the paperwork has to hold up in both places.
 
+- **Offer letter and contract.** Both are issued and signed before day one.
 - **Contractor or employee?** Calling someone a contractor when they work like an employee can be risky in some countries. If you need a full employee and don't have a company in their country, an **employer of record** (EOR, a company that legally employs the person on your behalf) is one option.
 - **The contract** should cover: the work, pay and currency, payment dates, notice period, who owns the work they create (intellectual property), confidentiality, data protection and which country's law applies.
-- **Records to keep:** the signed contract, the offer, identity and right-to-work checks where they're required, payment records and any tax forms the countries ask for.
+- **Records to keep:** the signed contract, the offer letter, identity and right-to-work checks where they're required, payment records and any tax forms the countries ask for.
 - **Candidate data:** Only collect what you need. Store it securely. Delete it when you no longer need it. Data protection laws such as GDPR can apply even when you're outside Europe, for example if you hire people in the UK or EU.
 
 ## How I use AI in hiring
@@ -272,15 +275,18 @@ AI drafts, humans decide.
 | Word | What it means here |
 |---|---|
 | Role brief | A one-page summary of why the role exists, what success looks like and what the person must be able to do |
+| Role request form | The form a hiring manager fills in with HR to open a role |
 | Scorecard | The list of what the role needs, what good looks like and how you'll test it |
 | Competency | A skill or behaviour the job needs |
 | Must-have | Something the person needs on day one. If they don't have it, they can't do the job |
 | Nice-to-have | Something that helps but can be learned |
-| Hiring manager | The person the new hire will report to |
+| Hiring manager | The manager of the team the new hire will join |
 | Debrief | The meeting where interviewers share evidence after the interviews |
 | Time-to-hire | Days from a candidate applying to accepting an offer |
 | Overlap hours | The hours when both the new hire and the team are working |
 | Async | Work that doesn't happen at the same time, such as written updates instead of meetings |
+| Async judgment | Knowing what to write down, and when a call is actually needed |
+| Proactive transparency | Raising problems early, before anyone has to ask |
 | EOR | Employer of record: a company that legally employs someone on your behalf in their country |
-| Values alignment | Past behaviour that matches the company's written values |
+| Values alignment | Observable behaviour that matches how the team works |
 | Culture add | A new perspective or strength the person would bring to the team |
