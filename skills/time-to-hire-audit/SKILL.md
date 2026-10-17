@@ -51,7 +51,7 @@ If the user has already given data, don't hold the audit up for these. State you
 | Time in stage | Default target |
 |---|---|
 | Applied, until the first reply or screen | 2 working days |
-| Any interview stage, until the next step | 5 working days. Every candidate hears back within 5 working days |
+| Any interview stage, until the next step | 3 working days. Every candidate hears back within 3 working days |
 | Last interview, until the debrief | 2 working days |
 | Debrief, until the offer is sent | 2 working days |
 | Offer, until accepted | No target. This is the candidate's time to decide |
@@ -117,10 +117,11 @@ For each of the top 3 waits, give a likely cause, a fix, an owner and a way to m
 
 | Wait | Fix |
 |---|---|
+| Too many stages | Remove stages that repeat each other, and merge interviews that test the same things. Often the biggest single win |
 | First reply after applying | Screen new applications every working day, not in weekly batches |
 | Scheduling back-and-forth | Send a booking link, not "when are you free?" |
 | Interview slots | Pre-book panel slots at intake. Name a backup interviewer |
-| Interviewer feedback | Feedback due within 24 hours. Don't book the debrief until it's in |
+| Interviewer feedback | Feedback due within 24 hours. Hold the debrief slot early, but it only goes ahead once all feedback is in |
 | The debrief | Hold the debrief within 2 working days of the last interview |
 | "Let's see a few more first" | Decide on each candidate against the scorecard (the list of what the role needs), not against the next applicant |
 | Offer approval | Pre-approve the salary range and sign-off at intake, so the offer goes out within 2 working days of the decision |

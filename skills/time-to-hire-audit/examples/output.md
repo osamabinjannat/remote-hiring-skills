@@ -62,7 +62,7 @@ Median: 41 days. For both hires, the three waits below took more than half that 
 **Waiting over target on 30 September 2026**
 | ID | Stage | Waiting so far | Target |
 |---|---|---|---|
-| C-13 | Mock client call, waiting for the values conversation | 9 days (7 working days) | 5 working days |
+| C-13 | Mock client call, waiting for the values conversation | 9 days (7 working days) | 3 working days |
 | C-14 | Applied, waiting for the recruiter screen | 8 days (6 working days) | 2 working days |
 
 > Contact each of these candidates this week, even if the only news is "no decision yet".
@@ -80,7 +80,7 @@ Median: 41 days. For both hires, the three waits below took more than half that 
 |---|---|---|---|---|
 | Applied → recruiter screen (median 8 days) | New applications were reviewed once a week, then a time for the screen was agreed by email | Review new applications every working day. Put a booking link for the screen in the first reply, instead of asking "when are you free?" | Recruiter | Days from Applied to Recruiter screen. Target: first reply within 2 working days |
 | Debrief → offer (median 7 days) | Every offer needed pay sign-off after the debrief. Also waiting to see more candidates before deciding (possible, please check) | Pre-approve the salary range and who signs it off at the intake meeting (when the role is planned), so the offer goes out within 2 working days. Decide on each candidate against the scorecard (the list of what the role needs), not against the next one | Hiring manager, with whoever approves pay | Days from Debrief to Offer. Target: 2 working days |
-| Mock client call → values conversation (median 6 days) | One values interviewer, with few free slots while travelling | Pre-book 2 values conversation slots a week at intake. Name a backup values interviewer. Send a booking link | Recruiter (booking), values interviewer (holding slots) | Days from Mock client call to Values conversation. Target: 5 working days |
+| Mock client call → values conversation (median 6 days) | One values interviewer, with few free slots while travelling | Pre-book 2 values conversation slots a week at intake. Name a backup values interviewer. Send a booking link | Recruiter (booking), values interviewer (holding slots) | Days from Mock client call to Values conversation. Target: 3 working days |
 
 ## 30-day plan
 | # | Fix | Owner | Measure | Working if... |
@@ -118,7 +118,7 @@ Days in each stage. "–" = didn't reach it. "?" = date missing. "so far" = stil
 - **Small sample.** 14 candidates and 2 hires. With fewer than about 10 hires, one unusual candidate can move a median a lot. Read these numbers as a rough guide, and check them against the table above.
 - **Median, not average.** The median is the middle value when the waits are sorted from shortest to longest. One very long wait drags an average up but barely moves the median.
 - **Days.** Stage waits are calendar days. The over-target check uses working days (Monday to Friday), because the targets are in working days. I didn't take out public holidays.
-- **Targets.** You didn't give any, so I used these defaults: a first reply within 2 working days of applying, the next step within 5 working days of any interview, the debrief within 2 working days of the last interview and the offer within 2 working days of the decision. Change them if yours are different.
+- **Targets.** You didn't give any, so I used these defaults: a first reply within 2 working days of applying, the next step within 3 working days of any interview, the debrief within 2 working days of the last interview and the offer within 2 working days of the decision. Change them if yours are different.
 - **Candidate time.** The Written exercise wait includes the candidate's own time to do the exercise. The Offer wait is the candidate deciding. Neither is a queue to squeeze.
 - **What I left out.** C-09's Written exercise and Hiring manager interview waits, because of the missing date. C-09's total of 27 days is still shown, because the first and last dates are known.
 - **Likely causes** come from your notes. "Waiting to see more candidates" is my guess, based on C-08 waiting 12 days with no decision. Check every cause with the team before you change anything.
