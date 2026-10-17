@@ -10,6 +10,8 @@ Eight [Agent Skills](https://agentskills.io) for recruiters, founders and hiring
 
 They're built from how I've hired 150+ people, mostly in Pakistan for teams in the US, UK and Gulf. They work in Claude Code, Claude.ai, Codex, Cursor and any AI chat.
 
+**Website:** [osamabinjannat.github.io/remote-hiring-skills](https://osamabinjannat.github.io/remote-hiring-skills/)
+
 ## AI drafts, humans decide
 
 These skills **draft, structure and summarise**. They never score, rank, shortlist or reject real people.

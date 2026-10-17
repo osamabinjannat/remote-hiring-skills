@@ -97,6 +97,8 @@ remote-hiring-skills/
 ├── assets/
 │   └── social-preview.png       # 1280×640, uploaded by hand in GitHub Settings
 ├── docs/
+│   ├── index.html               # the one-page website (GitHub Pages serves docs/)
+│   ├── .nojekyll                # tells GitHub Pages to serve files as they are
 │   ├── hiring-playbook.md       # how we hire; source material for every skill
 │   └── roadmap.md               # skills planned next
 ├── skills/
