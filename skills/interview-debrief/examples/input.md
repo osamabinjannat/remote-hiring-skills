@@ -18,7 +18,7 @@ Hi! Sana's debrief is tomorrow, Thu 5 Nov at 9am Central. Everyone's sent their 
 | 4 | Self-management and account organisation | 20% | Hiring manager interview |
 | 5 | Values alignment and culture add | 15% | Values conversation |
 
-Rating scale: 1 Clear concern · 2 Some concern · 3 Meets the bar · 4 Clearly above the bar · No evidence
+Rating scale: 1 Clear concern · 2 Some concern · 3 Meets the bar · 4 Above the bar · 5 Well above the bar · No evidence
 
 Written exercise brief: reply to a frustrated clinic owner whose online booking page has been down all morning. Then write a two-line update for Rachel, who's asleep in Austin.
 

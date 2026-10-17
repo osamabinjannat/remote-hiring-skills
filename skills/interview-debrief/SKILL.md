@@ -58,7 +58,7 @@ Read every interviewer's notes before you write anything. Then follow these rule
 - **Point to the real question.** If a set-aside comment hides a fair job question, name the job evidence that answers it. Accent: the job question is whether clients can understand the person, so point to the client communication evidence. A guess about relocating: the job question is where they'll be based, so point to what the screen recorded.
 - **Don't repeat set-aside words.** Outside the "Comments set aside" table, call a remark "the set-aside comment from [name]". Never repeat "culture fit" or a protected detail in your own words.
 - **Vague judgements get one question.** For a vague comment, suggest the recruiter asks the interviewer, before the debrief: "What did they say or do?" A specific, job-related answer can then join the evidence.
-- **Find the disagreements.** It's a disagreement when one interviewer rated 1 or 2 and another rated 3 or 4 on the same competency, or when their written evidence points different ways. A 3 next to a 4 isn't a disagreement. Leave it in the evidence and mention it in "Notes on this draft".
+- **Find the disagreements.** It's a disagreement when one interviewer's rating shows a concern and another's meets the bar or better on the same competency (on a 1 to 5 scale, a 1 or 2 next to a 3, 4 or 5), or when their written evidence points different ways. Two ratings at or above the bar, such as a 3 and a 4, aren't a disagreement. Leave it in the evidence and mention it in "Notes on this draft".
 - **Find the gaps.** A competency has a gap when nobody gave evidence for it, one short comment is all there is, part of the stage that tests it wasn't reviewed, feedback from that stage hasn't arrived or a rating has nothing behind it. Don't change any rating. Just say what's missing and how to fill it.
 - **Work out the speaking order.** Most junior person first, hiring manager last. Use the job titles. If you can't tell who's more junior, put the hiring manager last and let the recruiter set the rest.
 
@@ -176,7 +176,7 @@ If there are no disagreements, give their agenda time to the competencies. If th
 After the pack, add a short section called **Notes on this draft** with:
 
 - One line for each judgement call you made: where you filed a point the interviewer didn't label, why something is "Noted", ratings off the scale, ratings given outside the stage that tests a competency and any 3 next to a 4.
-- One line confirming you didn't average, total or add any ratings.
+- One line confirming you didn't average, total or combine any ratings. This line may say "no overall rating".
 - If a set-aside comment touches a protected characteristic, a soft line saying HR may want to look at how the comment came up, and a reminder of what to leave out of interview notes. No blame, no lecture. Add a **Legal check** with the standard wording in the Guardrails.
 
 ## Step 5: Check before you hand it over

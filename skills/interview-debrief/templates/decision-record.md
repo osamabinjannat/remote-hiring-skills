@@ -33,7 +33,7 @@
 - [ ] The most junior person spoke first and the hiring manager spoke last.
 - [ ] No comment about a protected characteristic (such as age, gender, religion, nationality, marital status, family, health or disability) played any part.
 - [ ] Ratings weren't averaged. Each disagreement was settled by evidence or by one named follow-up.
-- [ ] The candidate will hear back within 5 working days, whatever the decision.
+- [ ] The candidate will hear back within 3 working days, whatever the decision.
 
 **Process checked by (recruiter):** __________ **Date:** __________
 
